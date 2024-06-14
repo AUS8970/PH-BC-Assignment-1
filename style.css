@@ -1,0 +1,453 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+   padding-top: 40px;
+   background-color: #1E1E1E;
+   color: #fff;
+   font-family: "Rubik";
+}
+
+.header{
+    justify-content: space-between;
+    display: flex;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.logo {
+    size: 32px;
+    color: #FD6F00;
+}
+
+.Home {
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    display: flex;
+    gap: 20px;
+}
+
+.Downlaod-CV {
+    text-align: center;
+    border: 1px solid #FD6F00;
+    height: 50px;
+    width: 160px;
+    background-color: #FD6F00;
+    font-size: 14px;
+}
+
+.My-About {
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+}
+
+.Shamim {
+    margin: 0;
+}
+
+.hi {
+    font-size: 15px;
+    padding-top: 150px;
+}
+.creative {
+    padding-top: 8px;
+    margin: 0;
+}
+.Based {
+    padding-top: 8px;
+    margin: 0px;
+    display: flex;
+    gap: 10px;
+}
+
+.Bangladesh {
+    padding-right: 20px;
+}
+
+.MyAbout {
+    text-decoration: none;
+    height: fit-content;
+}
+
+.Design {
+    font-size: 12px;
+}
+
+.Hire-Me {
+    display: flex;
+    gap: 20px;
+    padding: 0px;
+    height: fit-content;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #fff;
+    border-color: #FD6F00;
+    background-color: #FD6F00;
+    cursor: pointer;
+}
+
+.button-portfolio {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.button-hire {
+    margin: 0;
+    margin-top: 10px;
+    padding: 10px;
+    width: 117px;
+    height: fit-content;
+}
+
+.social-media-icon {
+    padding-top: 20px;
+    display: flex;
+    gap: 30px;
+}
+
+.picture {
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.experience-rotate {
+    color: #fff;
+    background-color: black;
+    justify-content: center;
+    height: 120px;
+    align-items: center;
+    display: flex;
+    rotate: -6.97deg;
+}
+
+.About-Me-section {
+    padding: 120px;
+    height: 110px;
+    width: fit-content;
+    display: flex;
+}
+
+.About-Me {
+    padding: 8px;
+    margin: 0;
+}
+
+.years-experience {
+    padding: 20px;
+    text-align: right;
+    height: 80px;
+    width: 200px;
+    padding-top: 7px;
+    padding-left: 290px;
+}
+
+.star {
+    color:#FD6F00;
+    font-size: 25px;
+}
+
+.year {
+    margin: 0px;
+}
+
+.Expre {
+    margin: 0px;
+}
+
+.My-Experience {
+    background-color: #a84d07;
+    padding: 60px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Experience {
+    height: 200px;
+    width: 400px;
+}
+
+.All-Work {
+    height: 400px;
+    width: 400px;
+}
+
+.Lead-Designer {
+    border-bottom: 1px solid;
+}
+
+.last {
+    display: flex;
+    gap: 150px;
+}
+
+.Roll {
+    padding-left: 20px;
+}
+
+.Rolling-Thunder {
+    margin-top: 0px;
+}
+
+.Senior-Designer{
+    border-bottom: 1px solid;
+}
+
+.Mid {
+    display: flex;
+    gap: 150px;
+}
+
+.Loco {
+    padding-left: 11px;
+}
+
+.Locost-Accessoriesr {
+    margin-top: 0px;
+}
+
+.Junior-Designer {
+    border-bottom: 1px solid;
+}
+
+.Fast {
+    display: flex;
+    gap: 150px;
+}
+
+.Sage {
+    padding-left: 67px;
+}
+
+.Sagebrush {
+    margin-top: 0px;
+}
+
+.Awards {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.Best-Mobile {
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+
+.Best-Mobile-App-Design {
+    border: 1px solid #000;
+    background-color: #000000;
+    padding: 40px;
+    height: 100px;
+}
+
+.Product-Design-1 {
+    display: flex;
+}
+
+.App-Design {
+    margin: 0;
+    height: fit-content;
+}
+.Awarded-by {
+    height: 20px;
+    width: 600px;
+}
+
+.UIUX-Design-Competition{
+    border: 1px solid #000;
+    background-color: #000000;
+    padding: 40px;
+    height: 100px;
+}
+
+.Product-Design-2 {
+    display: flex;
+}
+
+.Competition {
+    margin: 0;
+}
+
+.Product-Design-2023 {
+    padding-left: 300px;
+    margin: 0;
+}
+
+.Product-Design-2022 {
+    padding-left: 267px;
+    margin: 0;
+}
+
+.Protfolio {
+    padding-top: 50px;
+    font-size: medium;
+    text-align: center;
+}
+
+.Protfolio-boxing {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.UI {
+    background-color: #000;
+    padding: 15px;
+}
+
+.Web {
+    background-color: rgba(253, 111, 0, 1);
+    padding: 15px;
+}
+
+.App {
+    background-color: #000;
+    padding: 15px;
+}
+
+.Graph {
+    background-color: #000;
+    padding: 15px;
+}
+
+.Research {
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+
+.case-study {
+    display: flex;
+    gap: 50px;
+}
+
+.Protfolio-img1 {
+    width: 500px;
+    height: 350px;
+}
+
+.Bally-Website {
+    width: 600px;
+    height: 150px;
+}
+
+.Website {
+    display: flex;
+    gap: 50px;
+}
+
+.Website-Research {
+    width: 600px;
+    height: 150px;
+}
+
+.Protfolio-img2 {
+    width: 500px;
+    height: 350px;
+}
+
+.Contact {
+    padding-top: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
+
+.Reach-out-me {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.Contact-Way {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(253, 111, 0, 0.1);
+    padding: 50px 80px 50px 80px;
+    width: fit-content;
+}
+
+.Name-Email {
+    display: flex;
+    gap: 50px;
+}
+
+.Nam {
+    border-bottom: 1px solid white;
+    padding-bottom: 5px;
+    width: 300px;
+}
+
+.Email {
+    border-bottom: 1px solid white;
+    padding-bottom: 5px;
+    width: 300px;
+}
+
+.Massage {
+    border-bottom: 1px solid white;
+    padding-bottom: 35px;
+    width: 652px;
+    margin: 0;
+}
+
+.Attach-file {
+    padding-top: 15px;
+    display: flex;
+    gap: 5px;
+}
+
+.Attach {
+    margin: 0px;
+}
+
+.Submit-now {
+    background-color:  rgba(253, 111, 0, 1);
+    margin: 0px;
+    padding: 10px 20px 10px 20px;
+    width: fit-content;
+}
+
+.footer {
+    background-color: black;
+    padding-top: 70px;
+}
+
+.footer-logo {
+    color: #FD6F00;
+    text-align: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.media-icon {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.copy-right {
+    background-color: #121212;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
